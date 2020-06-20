@@ -1,7 +1,3 @@
-// Created by Sujay S. Phadke, 2017
-// All Rights Reserved.
-// Github: https://github.com/electronicsguy
-//
 // Read/Write to Google Sheets using REST API.
 // Can be used with ESP8266 & other embedded IoT devices.
 // 
